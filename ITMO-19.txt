@@ -1,0 +1,1 @@
+About page (People, Funding, DB Policy) с табами + навигацией внутри страницы
